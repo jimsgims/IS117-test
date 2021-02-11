@@ -1,6 +1,6 @@
 # About
 
-[Click here to view my website]()
+[Click here to view my website](https://web.njit.edu/~jsw36/is117sp21/docs/)
 
 # Installation Instructions
 
